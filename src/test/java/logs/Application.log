@@ -1,0 +1,11 @@
+01/04/2021 13:23:21 devpinoyLogger Chrome Launching
+01/04/2021 13:23:29 devpinoyLogger Chrome Launching
+01/04/2021 13:23:38 devpinoyLogger Chrome Launching
+01/04/2021 13:23:44 devpinoyLogger Clicking on element:[[ChromeDriver: chrome on WINDOWS (66c6e8c8bec7d6b9a5867c48271a587a)] -> xpath: //div[contains(text(),'Sign in')]  ]
+01/04/2021 13:23:47 devpinoyLogger Chrome Launching
+01/04/2021 13:23:55 devpinoyLogger Clicking on element:[[ChromeDriver: chrome on WINDOWS (6163476a8d8de200bea6a30eec9d08f9)] -> xpath: //div[contains(text(),'Sign in')]  ]
+01/04/2021 13:23:58 devpinoyLogger Chrome Launching
+01/04/2021 13:24:04 devpinoyLogger Clicking on element:[[ChromeDriver: chrome on WINDOWS (a8e014c7a1081057f82c28c53f3aa67a)] -> xpath: //*[@id="uitk-tabs-button-container"]/li[2]/a]
+01/04/2021 13:24:05 devpinoyLogger Typing in Element :[[ChromeDriver: chrome on WINDOWS (a8e014c7a1081057f82c28c53f3aa67a)] -> xpath: //*[@id="location-field-leg1-origin-menu"]/div[1]/button]entered value isDelhi (DEL - Indira Gandhi Intl.)
+01/04/2021 13:24:05 devpinoyLogger Typing in Element :[[ChromeDriver: chrome on WINDOWS (a8e014c7a1081057f82c28c53f3aa67a)] -> xpath: //*[@id="location-field-leg1-destination-menu"]/div[1]/button]entered value isLondon (LHR - Heathrow)
+01/04/2021 13:24:11 devpinoyLogger Clicking on element:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wizard-flight-pwa-1"]/div[3]/div[2]/button'

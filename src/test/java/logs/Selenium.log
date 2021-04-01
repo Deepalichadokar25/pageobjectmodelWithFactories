@@ -1,0 +1,41 @@
+13:23:21,153 DEBUG devpinoyLogger:54 - Chrome Launching
+13:23:27,441 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:23:27,442 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:23:27,443 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:23:27,444 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:23:27,444 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/kawad/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:23:29,291 DEBUG devpinoyLogger:54 - Chrome Launching
+13:23:37,269 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:23:37,269 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:23:37,269 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:23:37,269 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:23:37,270 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/kawad/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:23:38,823 DEBUG devpinoyLogger:54 - Chrome Launching
+13:23:44,829 DEBUG devpinoyLogger:71 - Clicking on element:[[ChromeDriver: chrome on WINDOWS (66c6e8c8bec7d6b9a5867c48271a587a)] -> xpath: //div[contains(text(),'Sign in')]  ]
+13:23:45,725 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:23:45,725 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:23:45,727 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:23:45,727 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:23:45,727 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/kawad/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:23:45,769 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:23:45,770 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:23:45,770 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:23:45,770 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:23:45,771 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/kawad/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:23:47,508 DEBUG devpinoyLogger:54 - Chrome Launching
+13:23:55,477 DEBUG devpinoyLogger:71 - Clicking on element:[[ChromeDriver: chrome on WINDOWS (6163476a8d8de200bea6a30eec9d08f9)] -> xpath: //div[contains(text(),'Sign in')]  ]
+13:23:56,666 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:23:56,667 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:23:56,667 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:23:56,668 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:23:56,668 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/kawad/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:23:58,305 DEBUG devpinoyLogger:54 - Chrome Launching
+13:24:04,309 DEBUG devpinoyLogger:71 - Clicking on element:[[ChromeDriver: chrome on WINDOWS (a8e014c7a1081057f82c28c53f3aa67a)] -> xpath: //*[@id="uitk-tabs-button-container"]/li[2]/a]
+13:24:05,024 DEBUG devpinoyLogger:78 - Typing in Element :[[ChromeDriver: chrome on WINDOWS (a8e014c7a1081057f82c28c53f3aa67a)] -> xpath: //*[@id="location-field-leg1-origin-menu"]/div[1]/button]entered value isDelhi (DEL - Indira Gandhi Intl.)
+13:24:05,488 DEBUG devpinoyLogger:78 - Typing in Element :[[ChromeDriver: chrome on WINDOWS (a8e014c7a1081057f82c28c53f3aa67a)] -> xpath: //*[@id="location-field-leg1-destination-menu"]/div[1]/button]entered value isLondon (LHR - Heathrow)
+13:24:11,230 DEBUG devpinoyLogger:71 - Clicking on element:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wizard-flight-pwa-1"]/div[3]/div[2]/button'
+13:24:11,260 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:24:11,261 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:24:11,262 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:24:11,263 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:24:11,263 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/kawad/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
